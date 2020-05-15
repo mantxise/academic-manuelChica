@@ -17,11 +17,42 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Ramon y Cajal Senior Researcher"
+  company = "University of Granada"
   company_url = ""
-  location = "California"
+  location = "Granada, Spain"
+  date_start = "2018-06-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+  
+[[experience]]
+  title = "Chief AI Officer"
+  company = "ZIO Analytics"
+  company_url = "https://www.zio-analytics.com/"
+  location = "Madrid, Spain"
+  date_start = "2017-04-03"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+  
+[[experience]]
+  title = "Conjoint Lecturer"
+  company = "University of Newcastle, Australia"
+  company_url = "https://www.newcastle.edu.au/"
+  location = "Cork, Ireland"
   date_start = "2017-01-01"
   date_end = ""
   description = """
@@ -31,14 +62,71 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+      
+[[experience]]
+  title = "Senior Researcher"
+  company = "Interdisciplinary (IN3)"
+  company_url = ""
+  location = "Asturias, Spain"
+  date_start = "2016-06-01"
+  date_end = "2017-02-20"
+  description = """
+  Scientific research using optimization algorithms and metaheuristics, complex systems, and projects' writing.
+  """
+  
+[[experience]]
+  title = "Deputy Principal Researcher"
+  company = "European Centre for Soft Computing"
+  company_url = ""
+  location = "Asturias, Spain"
+  date_start = "2012-02-20"
+  date_end = "2016-05-16"
+  description = """
+  R&D projects management. Leading actions on agent-based modelling, system dynamics and artificial economics for brand management and marketing . Applied research on multicriteria decision making. Unit management and preparation of FP7 proposals.
+  """
+    
+[[experience]]
+  title = "R&D Engineer"
+  company = "Inspiralia"
+  company_url = "https://www.inspiralia.com/"
+  location = "Madrid, Spain"
+  date_start = "2008-07-14"
+  date_end = "2012-01-15"
+  description = """
+  Delivery of FP7 projects related with intelligent systems, image analysis, pattern recognition, data mining and and software development. Technical management of the projects.
+  """
+    
+    
+[[experience]]
+  title = "Research Assistant"
+  company = "European Centre for Soft Computing"
+  company_url = ""
+  location = "Asturias, Spain"
+  date_start = "2007-06-18"
+  date_end = "2008-06-18"
+  description = """
+  R&D projects about metaheuristics, optimization and production.
+  """
+    
+[[experience]]
+  title = "Internship"
+  company = "Apple Computer"
+  company_url = ""
+  location = "Cork, Ireland"
+  date_start = "2007-03-12"
+  date_end = "2007-05-17"
+  description = """
+  Testing of software and hardware devices on Windows over a Mac architecture.
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "University of Jaen"
+  company_url = "www.ujaen.es"
+  location = "Jaen"
+  date_start = "2007-09"
+  date_end = "2006-12"
+  description = """Research on data mining and pre-processing techniques. Develop of feature selection algorithms for the Keel project (a Java open-source data mining software)."""
+
 
 +++
