@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Manuel Chica is Ramon y Cajal Senior Researcher (RYC-2016-19800), granted by the Spanish Government, at the University of Granada (Computer Science and AI Deparment). He is also Chief AI Officer at ZIO Analytics and Conjoint Lecturer at the University of Newcastle, Australia. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His current research interests include agent-based modeling, evolutionary game theory, single and multi-objective evolutionary optimization, data science, and complex systems. His research is mainly applied and has been applied to a diverse range of fields: from industrial engineering and marketing, to healthcare systems and climate change.
