@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company = "University of Newcastle, Australia"
   company_url = "https://www.newcastle.edu.au/"
   location = "Callaghan, Australia"
-  date_start = "2017-01-01"
+  date_start = "2017-08-15"
   date_end = ""
   description = """
   Supervision of Master and PhD students, research collaboration, and teaching support
