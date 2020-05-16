@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Current tasks & skills"
+title = "Scholar figures"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,28 +15,24 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "flask"
+  icon = "copy"
   icon_pack = "fas"
-  name = "Modeling and scientific writing"
-  description = "40%"
+  name = "JCR-indexed papers"
+  description = "32"  
+  
   
 [[feature]]
-  icon = "users"
+  icon = "medal"
   icon_pack = "fas"
-  name = "Project management"
-  description = "30%"  
+  name = "Q1 ranked papers"
+  description = "25"
+  
   
 [[feature]]
-  icon = "chart-pie"
-  icon_pack = "fas"
-  name = "Analytics and UX design"
-  description = "20%"
+  icon = "google-scholar"
+  icon_pack = "ai"
+  name = "Citations"
+  description = "826 (h-index = 17)"
   
-[[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "Programming"
-  description = "10%"
-    
-
+      
 +++
