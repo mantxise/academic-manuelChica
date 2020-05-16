@@ -21,16 +21,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Ramon y Cajal Senior Researcher"
   company = "University of Granada"
-  company_url = ""
+  company_url = "https://decsai.ugr.es"
   location = "Granada, Spain"
   date_start = "2018-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Researcher at the Computer Science and AI Department. Research, R&D project, and teaching
   """
   
 [[experience]]
@@ -41,33 +37,25 @@ date_format = "Jan 2006"
   date_start = "2017-04-03"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Partner, scientific and technological direction, projects' support.
   """
   
 [[experience]]
   title = "Conjoint Lecturer"
   company = "University of Newcastle, Australia"
   company_url = "https://www.newcastle.edu.au/"
-  location = "Cork, Ireland"
+  location = "Callaghan, Australia"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Supervision of Master and PhD students, research collaboration, and teaching support
   """
       
 [[experience]]
   title = "Senior Researcher"
-  company = "Interdisciplinary (IN3)"
+  company = "Internet Interdisciplinary Institute (IN3)"
   company_url = ""
-  location = "Asturias, Spain"
+  location = "Barcelona, Spain"
   date_start = "2016-06-01"
   date_end = "2017-02-20"
   description = """
@@ -124,8 +112,8 @@ date_format = "Jan 2006"
   company = "University of Jaen"
   company_url = "www.ujaen.es"
   location = "Jaen"
-  date_start = "2007-09"
-  date_end = "2006-12"
+  date_start = "2006-06-15"
+  date_end = "2005-08-15"
   description = """Research on data mining and pre-processing techniques. Develop of feature selection algorithms for the Keel project (a Java open-source data mining software)."""
 
 
