@@ -16,25 +16,25 @@ subtitle = ""
 
 [[feature]]
   icon = "flask"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Modeling and scientific writing"
   description = "40%"
   
 [[feature]]
   icon = "users"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Project management"
   description = "30%"  
   
 [[feature]]
   icon = "chart-pie"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Analytics and UX design"
   description = "20%"
   
 [[feature]]
-  icon = "file-code"
-  icon_pack = "fab"
+  icon = "code"
+  icon_pack = "fas"
   name = "Programming"
   description = "10%"
     
