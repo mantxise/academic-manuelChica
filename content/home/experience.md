@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Academic Positions"
 subtitle = ""
 
 # Date format for experience
@@ -28,18 +28,7 @@ date_format = "Jan 2006"
   description = """
   Researcher at the Computer Science and AI Department. Research, R&D project, and teaching
   """
-  
-[[experience]]
-  title = "Chief AI Officer"
-  company = "ZIO Analytics"
-  company_url = "https://www.zio-analytics.com/"
-  location = "Madrid, Spain"
-  date_start = "2017-04-03"
-  date_end = ""
-  description = """
-  Partner, scientific and technological direction, projects' support.
-  """
-  
+    
 [[experience]]
   title = "Conjoint Lecturer"
   company = "University of Newcastle, Australia"
@@ -50,7 +39,18 @@ date_format = "Jan 2006"
   description = """
   Supervision of Master and PhD students, research collaboration, and teaching support
   """
-      
+            
+[[experience]]
+  title = "Endeavour Research Fellowship"
+  company = "University of Newcastle, Australia"
+  company_url = "https://www.newcastle.edu.au/"
+  location = "Callaghan, Australia"
+  date_start = "2017-03-01"
+  date_end = "2016-09-01"
+  description = """
+  Granted by the Australian Government. Research on evolutionary game theory and social dilemmas
+  """      
+  
 [[experience]]
   title = "Senior Researcher"
   company = "Internet Interdisciplinary Institute (IN3)"
@@ -61,52 +61,40 @@ date_format = "Jan 2006"
   description = """
   Scientific research using optimization algorithms and metaheuristics, complex systems, and projects' writing.
   """
-  
+        
 [[experience]]
-  title = "Deputy Principal Researcher"
-  company = "European Centre for Soft Computing"
-  company_url = ""
-  location = "Asturias, Spain"
-  date_start = "2012-02-20"
-  date_end = "2016-05-16"
+  title = "Visiting Researcher"
+  company = "Wroclaw University of Technology"
+  company_url = "https://www.pwr.wroc.pl"
+  location = "Wroclaw, Poland"
+  date_start = "2015-09-15"
+  date_end = "2016-01-15"
   description = """
-  R&D projects management. Leading actions on agent-based modelling, system dynamics and artificial economics for brand management and marketing . Applied research on multicriteria decision making. Unit management and preparation of FP7 proposals.
+  Collaborative work with other members of the EU ENGINE project (social network analysis, simulation, diffusion of innovations)
   """
-    
+              
 [[experience]]
-  title = "R&D Engineer"
-  company = "Inspiralia"
-  company_url = "https://www.inspiralia.com/"
-  location = "Madrid, Spain"
-  date_start = "2008-07-14"
-  date_end = "2012-01-15"
+  title = "Visiting Scholar"
+  company = "R.H. Smith School of Business, University of Maryland"
+  company_url = "https://www.rhsmith.umd.edu/"
+  location = "College Park, Maryland, US"
+  date_start = "2014-08-15"
+  date_end = "2014-12-15"
   description = """
-  Delivery of FP7 projects related with intelligent systems, image analysis, pattern recognition, data mining and and software development. Technical management of the projects.
+  Research stay, working at the Marketing Department and Center for Complexity in Business
   """
-    
-    
+                   
 [[experience]]
-  title = "Research Assistant"
-  company = "European Centre for Soft Computing"
-  company_url = ""
-  location = "Asturias, Spain"
-  date_start = "2007-06-18"
-  date_end = "2008-06-18"
+  title = "Visiting Researcher"
+  company = "University of Auckland"
+  company_url = "https://www.des.auckland.ac.nz"
+  location = "Auckland, New Zealand"
+  date_start = "2012-09-19"
+  date_end = "2012-12-18"
   description = """
-  R&D projects about metaheuristics, optimization and production.
+  Basic research about metaheuristics, radiation therapy optimization, mathematical programming
   """
-    
-[[experience]]
-  title = "Internship"
-  company = "Apple Computer"
-  company_url = ""
-  location = "Cork, Ireland"
-  date_start = "2007-03-12"
-  date_end = "2007-05-17"
-  description = """
-  Testing of software and hardware devices on Windows over a Mac architecture.
-  """
-
+        
 [[experience]]
   title = "Research Assistant"
   company = "University of Jaen"

@@ -31,6 +31,9 @@ education:
   - course: PhD in Artificial Intelligence and Computer Science (cum laude)
     institution: University of Granada
     year: 2011
+- course: Master in Soft Computing and Intelligent Systems
+    institution: University of Granada
+    year: 2009
   - course: MEng in Computer Science
     institution: University of Jaen
     year: 2006
