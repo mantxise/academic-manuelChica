@@ -5,7 +5,9 @@ publishDate: 2020-05-15T15:57:23.083411Z
 authors: ["Manuel Chica", "William Rand"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Journal of Marketing Research*"
+volume: 54
+pages: "752 - 767"
 ---
 
