@@ -4,6 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "ImageUGR"
+  weight = 1
+  pre = "<img src=\"/img/header.png\" style=\"height: 100px; width: 360px;\" alt=\"test menu image\">"
+
+[[main]]
   name = "Home"
   url = "#about"
   weight = 10
