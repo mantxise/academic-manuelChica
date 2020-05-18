@@ -6,7 +6,7 @@
 [[main]]
   name = "ImageUGR"
   weight = 1
-  pre = "<img src=\"/img/header.png\" style=\"height: 100px; width: 360px;\" alt=\"test menu image\">"
+  pre = "<img src=\"/img/header.png\" style=\"height: 50px; width: 180px;\" alt=\"test menu image\">"
 
 [[main]]
   name = "Home"
