@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Applied Mathematics and Computation*"
+impact: "3.092"
 ---
 
 impact factor: "Q1, 14/254 MATH-APPLIED / 3.092 IF"
