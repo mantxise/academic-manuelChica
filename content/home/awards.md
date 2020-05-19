@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards & Grants"
 subtitle = ""
 
 # Date format
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Endeavour"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "Jose Castillejo"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
+  organization = "Gledden Senior Fellowship"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
