@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Applied Mathematics and Computation*"
+url_code: "https://doi.org/10.1016/j.amc.2020.125090"
 ---
 
 {{% alert note %}}
@@ -15,6 +16,4 @@ Impact factor: 3.092. Journal rank: Q1, 14/254 (Mathematics - Applied)
 
 {{% /alert %}}
 
-* **Impact factor**: 3.092
-* **Journal rank**: Q1, 14/254
-* **Area**: Mathematics - Applied
+_volume 377 (15) 125090_
