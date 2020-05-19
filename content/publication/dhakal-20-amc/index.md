@@ -9,3 +9,4 @@ featured: false
 publication: "*Applied Mathematics and Computation*"
 ---
 
+impact factor: "Q1, 14/254 MATH-APPLIED / 3.092 IF"
