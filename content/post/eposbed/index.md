@@ -3,7 +3,7 @@
 
 title: "Eposbed on Euronews, rTVE and EU-Bulletin"
 subtitle: ""
-summary: "After two years’ work on an EU-funded project, a Spanish-based company has come up with a new prototype of a bed that could make life more comfortable for both patients and nurses, Euronews published. "
+summary: "After two years' work on an EU-funded project, a Spanish-based company has come up with a new prototype of a bed that could make life more comfortable for both patients and nurses, Euronews published."
 authors: []
 tags: []
 categories: []
