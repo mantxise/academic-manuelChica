@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EPOSBED"
+title: "Eposbed"
 summary: ""
 authors: []
 tags: []
