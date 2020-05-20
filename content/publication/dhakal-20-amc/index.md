@@ -5,7 +5,7 @@ publishDate: 2020-05-15T15:57:23.094412Z
 authors: ["Sandeep Dhakal", "Raymond Chiong", "Manuel Chica", "Richard H. Middleton"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Applied Mathematics and Computation*"
 url_doi: "https://doi.org/10.1016/j.amc.2020.125090"
 ---

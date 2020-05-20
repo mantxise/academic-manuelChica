@@ -5,7 +5,7 @@ publishDate: 2020-05-15T15:57:23.066412Z
 authors: ["M. Chica", "O. Cordón", "S. Damas", "J. Bautista"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Information Sciences*"
 ---
 
