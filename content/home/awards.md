@@ -18,35 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Australian Government"
-  organization_url = "https://endeavour.education.gov.au/endeavour"
-  title = "Endeavour"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-09-01"
-  date_end = "2017-02-28"
-  description = "Research project, granted by the Australian Government"
 
-[[item]]
-  organization = "Spanish Ministry of Education"
-  organization_url = ""
-  title = "Jose Castillejo Grant"
-  url = "http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/profesorado/profesorado-universitario/becas-ayudas/movilidad/jose-castillejo.html"
-  certificate_url = ""
-  date_start = "2020"
-  date_end = ""
-  description = "Research grant for a 3-months stay at Instituto Superior Tecnico, Univ. of Lisboa"
-  
-[[item]]
-  organization = "University of Western Australia (IAS)"
-  organization_url = "http://www.ias.uwa.edu.au/gledden-fellows"
-  title = "Gledden Senior Fellowship"
-  url = ""
-  certificate_url = ""
-  date_start = "2020"
-  date_end = ""
-  description = "Research grant of 20,000 AUD$ for visiting the Univeristy of Western Australia"
 
 [[item]]
   organization = "University of Granada"
