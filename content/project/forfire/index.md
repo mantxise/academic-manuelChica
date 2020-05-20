@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Apifresh"
-summary: "A European project funded by the European Commission 7th Framework Program. The objective of the Apifresh project is to provide European beekeepers with the scientific and technological aids necessary to improve the quality of European pollen and royal jelly and also to promote the regulatory means that will allow European bee products compete under fair conditions against lower quality or adulterated products."
+title: "Forfire"
+summary: "FORFIRE aims to develop an outdoors fire detection system using a new camera sensor only sensible to VUV part of the spectrum. This feature provides a set of advantages comparing with current sensors. Developing this new sensor will provide the capability of early fire detection with a very low rate of false alarm (0.1%). This can be achieved by focusing on the spectral characteristics of flames in the Vacuum Ultra Violet (VUV) area (at wavelengths between 140 to 240 nm) of the electromagnetic spectrum. "
 authors: []
 tags: []
 categories: []
-date: 2020-05-18T14:14:15+02:00
+date: 2020-05-20T17:52:30+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://en.wikipedia.org/wiki/Apifresh"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

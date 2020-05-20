@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Apifresh"
-summary: "A European project funded by the European Commission 7th Framework Program. The objective of the Apifresh project is to provide European beekeepers with the scientific and technological aids necessary to improve the quality of European pollen and royal jelly and also to promote the regulatory means that will allow European bee products compete under fair conditions against lower quality or adulterated products."
+title: "Zio"
+summary: "A cutting-edge Web application for marketing using agent-based modeling and AI"
 authors: []
 tags: []
 categories: []
-date: 2020-05-18T14:14:15+02:00
+date: 2020-05-20T17:54:15+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://en.wikipedia.org/wiki/Apifresh"
+external_link: "http://www.zio-analytics.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

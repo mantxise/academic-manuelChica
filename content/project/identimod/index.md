@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Identimod"
-summary: ""
+summary: "A decision support system based on computational intelligence and system dynamics for branding and marketing"
 authors: []
 tags: []
 categories: []
