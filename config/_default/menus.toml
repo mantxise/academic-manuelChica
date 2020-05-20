@@ -4,11 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = ""
-  weight = 1
-  pre = "<img src=\"/img/header.png\" style=\"height: 60px; width: 175px;\">"
-
-[[main]]
   name = "Home"
   url = "#about"
   weight = 10
