@@ -30,10 +30,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Spanish Ministry of Education"
+  organization_url = ""
   title = "Jose Castillejo Grant"
   url = "http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/profesorado/profesorado-universitario/becas-ayudas/movilidad/jose-castillejo.html"
   date_start = "2020"
-  date_end = "2020"
+  date_end = ""
   description = "Research grant for a 3-months stay at Instituto Superior Tecnico, Univ. of Lisboa"
   
 [[item]]
@@ -41,6 +42,8 @@ date_format = "Jan 2006"
   organization_url = "http://www.ias.uwa.edu.au/gledden-fellows"
   title = "Gledden Senior Fellowship"
   url = ""
+  date_start = "2020"
+  date_end = ""
   description = "Research grant of 20,000 AUD$ for visiting the Univeristy of Western Australia"
 
 [[item]]
