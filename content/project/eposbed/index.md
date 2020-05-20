@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Eposbed"
+title: "EPOSBED"
 summary: "This FP7 for SMEs project was developed in Inspiralia to create a medical device which automatically recognizes patient's intentions. Manuel led the intelligent system based on neural networks to identify the patient's movements"
 authors: []
 tags: []
