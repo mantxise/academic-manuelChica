@@ -9,3 +9,12 @@ featured: false
 publication: "*Swarm and Evolutionary Computation*"
 ---
 
+
+_ volume 42, 138-159 _
+
+
+{{% alert note %}}
+
+Impact factor: 6.330. Journal rank: Q1, 4/104 (Computer Science - Theory & Methods)
+
+{{% /alert %}}

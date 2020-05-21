@@ -9,3 +9,13 @@ featured: true
 publication: "*Omega*"
 ---
 
+
+_ volume 58 55-68 _
+
+
+{{% alert note %}}
+
+Impact factor: 4.029. Journal rank: Q1, 2/83 (OR - Management Science)
+
+{{% /alert %}}
+

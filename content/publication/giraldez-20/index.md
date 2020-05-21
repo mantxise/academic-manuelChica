@@ -9,3 +9,13 @@ featured: false
 publication: "*International Journal of Intelligent Systems*"
 ---
 
+
+_ volume 35 283-299 _
+
+
+{{% alert note %}}
+
+Impact factor: 7.229. Journal rank: Q1, 8/133 (Computer Science AI)
+
+{{% /alert %}}
+

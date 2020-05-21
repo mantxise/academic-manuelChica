@@ -9,3 +9,13 @@ featured: false
 publication: "*Information Sciences*"
 ---
 
+
+_ volume 375 79-97 _
+
+
+{{% alert note %}}
+
+Impact factor: 4.305. Journal rank: Q1, 12/148 (Computer Science - AI)
+
+{{% /alert %}}
+

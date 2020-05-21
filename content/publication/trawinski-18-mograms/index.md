@@ -9,3 +9,13 @@ featured: false
 publication: "*IEEE Transactions on Cybernetics*"
 ---
 
+
+_ volume 48 (2) 474-485 _
+
+
+{{% alert note %}}
+
+Impact factor: 10.387. Journal rank: Q1, 1/23 (Computer Science - Cybernetics)
+
+{{% /alert %}}
+

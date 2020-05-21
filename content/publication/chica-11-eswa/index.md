@@ -9,3 +9,13 @@ featured: false
 publication: "*Expert Systems with Applications*"
 ---
 
+
+_ volume 38 (1) 709-720 _
+
+
+{{% alert note %}}
+
+Impact factor: 2.203. Journal rank: Q1, 7/77 (OR - Management Science)
+
+{{% /alert %}}
+

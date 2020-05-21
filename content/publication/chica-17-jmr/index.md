@@ -11,3 +11,16 @@ volume: 54
 pages: "752 - 767"
 ---
 
+
+_ volume 54 (5) 752-767 _
+
+
+{{% alert note %}}
+
+Impact factor: 3.9. Journal rank: Q1, 25/140 (Business)
+
+{{% /alert %}}
+
+
+
+

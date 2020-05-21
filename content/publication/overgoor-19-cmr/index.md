@@ -9,3 +9,14 @@ featured: false
 publication: "*California Management Review*"
 ---
 
+
+_ volume 61 (4) 1-30 _
+
+
+{{% alert note %}}
+
+Impact factor: 5.0. Journal rank: Q1, 26/217 (Management)
+
+{{% /alert %}}
+
+

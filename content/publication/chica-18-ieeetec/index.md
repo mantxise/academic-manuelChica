@@ -9,3 +9,14 @@ featured: true
 publication: "*IEEE Transactions on Evolutionary Computation*"
 ---
 
+
+_ volume 22 (6) 866-878 _
+
+
+{{% alert note %}}
+
+Impact factor: 8.508. Journal rank: Q1, 3/104 (Computer Science - Theory & Methods)
+
+{{% /alert %}}
+
+

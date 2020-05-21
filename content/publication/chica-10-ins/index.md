@@ -9,3 +9,12 @@ featured: true
 publication: "*Information Sciences*"
 ---
 
+
+_ volume 180 (18) 3465-3487 _
+
+
+{{% alert note %}}
+
+Impact factor: 2.833. Journal rank: Q1, 9/126 (Computer Science - Intelligent Systems)
+
+{{% /alert %}}

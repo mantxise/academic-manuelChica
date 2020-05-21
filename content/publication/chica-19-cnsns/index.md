@@ -9,3 +9,12 @@ featured: false
 publication: "*Communications in Nonlinear Science and Numerical Simulation*"
 ---
 
+
+_ volume 79 104870 _
+
+
+{{% alert note %}}
+
+Impact factor: 3.967. Journal rank: Q1, 1/55 (Physics Mathematical)
+
+{{% /alert %}}

@@ -9,3 +9,13 @@ featured: false
 publication: "*Expert Systems with Applications*"
 ---
 
+
+_ volume 147 113183 _
+
+
+{{% alert note %}}
+
+Impact factor: 4.292. Journal rank: Q1, 24/133 (Computer Science - AI)
+
+{{% /alert %}}
+

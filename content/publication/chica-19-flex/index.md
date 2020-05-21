@@ -9,3 +9,15 @@ featured: false
 publication: "*Flexible Services and Manufacturing*"
 ---
 
+
+_ volume 33 (1) 75-103 _
+
+
+{{% alert note %}}
+
+Impact factor: 2.519. Journal rank: Q2, 27/84 (OR & Management Science)
+
+{{% /alert %}}
+
+
+

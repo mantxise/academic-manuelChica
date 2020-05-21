@@ -9,3 +9,12 @@ featured: false
 publication: "*Knowledge-Based Systems*"
 ---
 
+
+_ volume 123 200-216 _
+
+
+{{% alert note %}}
+
+Impact factor: 4.396. Journal rank: Q1, 14/132 (Computer Science - AI)
+
+{{% /alert %}}

@@ -9,3 +9,12 @@ featured: false
 publication: "*Journal of Artificial Societies & Social Simulation*"
 ---
 
+
+_ volume 22 (3) 1 _
+
+
+{{% alert note %}}
+
+Impact factor: 2.194. Journal rank: Q1, 18/104 (Social Sciences)
+
+{{% /alert %}}

@@ -9,3 +9,14 @@ featured: false
 publication: "*Applied Soft Computing*"
 ---
 
+
+_ volume 13 (11) 4370-4382 _
+
+
+{{% alert note %}}
+
+Impact factor: 2.679. Journal rank: Q1, 20/121 (Computer Science - AI)
+
+{{% /alert %}}
+
+

@@ -9,3 +9,14 @@ featured: false
 publication: "*Computers and Industrial Engineering*"
 ---
 
+
+_ volume 61 (1) 103-117 _
+
+
+{{% alert note %}}
+
+Impact factor: 1.589. Journal rank: Q1, 9/42 (Industrial Engineering)
+
+{{% /alert %}}
+
+
