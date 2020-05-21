@@ -31,13 +31,13 @@ subtitle = ""
   icon = "medal"
   icon_pack = "fas"
   name = "Q1 ranked papers"
-  description = "25"
+  description = "24"
     
 [[feature]]
   icon = "google-scholar"
   icon_pack = "ai"
   name = "Citations"
-  description = "826 (h-index = 17)"
+  description = "829 (h-index = 17)"
   
 [[feature]]
   icon = "project-diagram"

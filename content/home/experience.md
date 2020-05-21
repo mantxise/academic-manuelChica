@@ -39,18 +39,7 @@ date_format = "Jan 2006"
   description = """
   Supervision of Master and PhD students, research collaboration, and teaching support
   """
-            
-[[experience]]
-  title = "Endeavour Research Fellowship"
-  company = "University of Newcastle, Australia"
-  company_url = "https://www.newcastle.edu.au/"
-  location = "Callaghan, Australia"
-  date_start = "2017-03-01"
-  date_end = "2016-09-01"
-  description = """
-  Granted by the Australian Government. Research on evolutionary game theory and social dilemmas
-  """      
-  
+              
 [[experience]]
   title = "Senior Researcher"
   company = "Internet Interdisciplinary Institute (IN3)"

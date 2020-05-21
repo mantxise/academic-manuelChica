@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Toxdtect"
-summary: "The aim of TOXDTECT project is to develop an intelligent packaging solution for fresh bovine meat products. The technology is based on the identification of specific volatile organic compounds (VOCs) produced inside the packaging during microorganisms' growth. These compounds accumulate in the headspace and are detected by VOCs-sensitive sensors printed on the inside of the packaging film. The signal coming from the sensors can be related to the presence/concentration of the specific analysis. The sensing platform is formed by an array of three screen-printed electrodes modified with conductive polymer inks. The signal coming from the interaction between VOCs and polymer inks is recorded by an external device where data are processed. A suitable predictive software based on data mining algorithms finally correlates the sensors signal with the remaining shelf-life of meat (i.e., number of days during which meat is still safe to be consumed)."
+summary: "The aim of FP7 TOXDTECT project is to develop an intelligent packaging solution for fresh bovine meat products. The technology is based on the identification of specific volatile organic compounds (VOCs) produced inside the packaging during microorganisms' growth. The signal coming from the interaction between VOCs and polymer inks is recorded by an external device where data are processed. A predictive software based on data mining correlates the sensors signal with the remaining shelf-life of meat (i.e., number of days during which meat is still safe to be consumed)."
 authors: []
 tags: []
 categories: []
