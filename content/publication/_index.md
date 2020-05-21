@@ -12,5 +12,4 @@ view: 2
 header:
   caption: ""
   image: "cards.jpg"
-  height: "100px"
 ---
