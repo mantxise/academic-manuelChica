@@ -22,17 +22,18 @@ MACOI focuses on applying computational intelligence techniques for solving comp
 
 The target business and engineering applications are manifold: 
 
-*industrial engineering, 
-*healthcare and ambient assisted solutions, 
-*marketing and brand management, 
-*food engineering, or
-*energy prediction.
+* climate change,
+* marketing, 
+* sharing economy,
+* industrial engineering, 
+* healthcare, 
+* food engineering,
+* ecological modelling.
 
 {{< figure library="true" src="complex_systems.png" lightbox="true" >}}
 
 
 We list below some research examples.
-
 
 
 ## Modeling and building agent-based DSS for marketing
