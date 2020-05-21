@@ -7,6 +7,8 @@ authors: []
 tags: []
 categories: []
 date: 2020-05-21T14:07:18+02:00
+profile: false  # Show author profile?
+commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,8 +46,6 @@ slides: ""
 ## What are metaheuristics, genetic algorithms and ant colony optimization?
 
 Many complex combinatorial and numerical optimization problems arise in human activities, such as economics (e.g., portfolio selection), industry (e.g., scheduling or logistics), or engineering (e.g., network routing), among many others.
-
-{{< figure library="true" src="manuel_chica_phd1.png" lightbox="true" >}}
 
 Using classical algorithmic techniques to get optimal solutions for this kind of problems in reasonable time is difficult. This fact has favored the development of different approximate algorithm methodologies in the last two decades such as metaheuristics. Metaheuristics are able to quickly provide high quality solutions and particularly useful to solve these problems due to their flexibility, their iterative nature, and their capability to simultaneously optimize several conflicting criteria. 
 

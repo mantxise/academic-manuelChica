@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "manuel_chica_complex_systems.png"
+  image: ""
 ---
 
 
@@ -62,7 +62,7 @@ We were approached by the firm to help answer the question how can they incentiv
 We first constructed an agent-based model that attempted to predict the rate of conversions in a massive-online game, called Animal Jam. The main components of this model were a social network and a model of social influence propagation. Once we had a model that we had shown was accurate at predicting out-of-sample conversions, we then constructed a tool that enabled the examination of the effects of different marketing policies on the social network. Using this model we were able to explore the role of targeting different users with different incentives:
 
 
-{{< figure library="true" src="freemium_not_really.png" lightbox="true" >}}
+{{< figure library="true" src="freemium_not_really.jpg" lightbox="true" >}}
 
 
 ### Findings
@@ -97,5 +97,5 @@ The figure below illustrates the effect of incentivizing 2,000 non-premium users
 
 
 {{% staticref "files/mchica_netscix_wroclaw.pdf" "newtab" %}}Talk at the NetSciX conference, Wroclaw{{% /staticref %}}
-{{% staticref "files/talk_mchica_areces.pdf" "newtab" %}}Keynote talk at the Marketing Series by Catedra Ramón Areces, Oviedo 2015 (in Spanish){{% /staticref %}}
+{{% staticref "files/talk_mchica_areces.pdf" "newtab" %}}Keynote talk at the Marketing Series by Catedra Ramon Areces, Oviedo 2015 (in Spanish){{% /staticref %}}
 
