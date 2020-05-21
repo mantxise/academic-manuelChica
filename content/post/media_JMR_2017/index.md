@@ -11,6 +11,8 @@ date: 2020-05-20T18:17:36+02:00
 lastmod: 2020-05-20T18:17:36+02:00
 featured: false
 draft: false
+profile: false  # Show author profile?
+commentable: true  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
