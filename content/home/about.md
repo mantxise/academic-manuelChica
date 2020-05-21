@@ -12,3 +12,9 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+{{< figure library="true" src="ugr_logo.png" title="" lightbox="true" >}}
+
+{{< figure library="true" src="logo_zio_vectorial.png" title="" lightbox="true" >}}
+
+{{< figure library="true" src="uon_logo_square.png" title="" lightbox="true" >}}
