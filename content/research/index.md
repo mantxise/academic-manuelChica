@@ -28,6 +28,9 @@ The target business and engineering applications are manifold:
 *food engineering, or
 *energy prediction.
 
+{{< figure library="true" src="complex_systems.png" lightbox="true" >}}
+
+
 We list below some research examples.
 
 
@@ -62,7 +65,7 @@ We were approached by the firm to help answer the question how can they incentiv
 We first constructed an agent-based model that attempted to predict the rate of conversions in a massive-online game, called Animal Jam. The main components of this model were a social network and a model of social influence propagation. Once we had a model that we had shown was accurate at predicting out-of-sample conversions, we then constructed a tool that enabled the examination of the effects of different marketing policies on the social network. Using this model we were able to explore the role of targeting different users with different incentives:
 
 
-{{< figure library="true" src="freemium_not_really.jpg" lightbox="true" >}}
+{{< figure library="true" src="freemium-not-really.jpg" lightbox="true" >}}
 
 
 ### Findings
