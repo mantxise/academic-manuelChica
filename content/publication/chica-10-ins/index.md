@@ -10,7 +10,7 @@ publication: "*Information Sciences*"
 ---
 
 
-_ volume 180 (18) 3465-3487 _
+_volume 180 (18) 3465-3487_
 
 
 {{% alert note %}}

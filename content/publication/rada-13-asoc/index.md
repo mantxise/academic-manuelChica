@@ -10,7 +10,7 @@ publication: "*Applied Soft Computing*"
 ---
 
 
-_ volume 13 (11) 4370-4382 _
+_volume 13 (11) 4370-4382_
 
 
 {{% alert note %}}

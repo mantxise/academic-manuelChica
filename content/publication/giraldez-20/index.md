@@ -10,7 +10,7 @@ publication: "*International Journal of Intelligent Systems*"
 ---
 
 
-_ volume 35 283-299 _
+_volume 35 283-299_
 
 
 {{% alert note %}}

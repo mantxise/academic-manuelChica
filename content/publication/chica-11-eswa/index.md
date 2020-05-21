@@ -10,7 +10,7 @@ publication: "*Expert Systems with Applications*"
 ---
 
 
-_ volume 38 (1) 709-720 _
+_volume 38 (1) 709-720_
 
 
 {{% alert note %}}

@@ -10,7 +10,7 @@ publication: "*International Journal of Advanced Manufacturing Technology*"
 doi: "http://dx.doi.org/10.1007/s00170-017-1039-x"
 ---
 
-_volume 94 (5-8), 2419–2433 _
+_volume 94 (5-8), 2419–2433_
 
 
 {{% alert note %}}

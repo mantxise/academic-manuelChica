@@ -10,7 +10,7 @@ publication: "*Communications in Nonlinear Science and Numerical Simulation*"
 ---
 
 
-_ volume 79 104870 _
+_volume 79 104870_
 
 
 {{% alert note %}}

@@ -10,7 +10,7 @@ publication: "*Flexible Services and Manufacturing*"
 ---
 
 
-_ volume 33 (1) 75-103 _
+_volume 33 (1) 75-103_
 
 
 {{% alert note %}}

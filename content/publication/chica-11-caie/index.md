@@ -10,7 +10,7 @@ publication: "*Computers and Industrial Engineering*"
 ---
 
 
-_ volume 61 (1) 103-117 _
+_volume 61 (1) 103-117_
 
 
 {{% alert note %}}

@@ -10,7 +10,7 @@ publication: "*Computers & Industrial Engineering*"
 ---
 
 
-_ volume 137 106048 _
+_volume 137 106048_
 
 
 {{% alert note %}}

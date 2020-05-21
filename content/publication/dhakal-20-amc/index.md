@@ -10,7 +10,7 @@ publication: "*Applied Mathematics and Computation*"
 url_doi: "https://doi.org/10.1016/j.amc.2020.125090"
 ---
 
-_ volume 377 (15) 125090 _
+_volume 377 (15) 125090_
 
 
 {{% alert note %}}

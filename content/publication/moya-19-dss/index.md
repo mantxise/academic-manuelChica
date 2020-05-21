@@ -10,7 +10,7 @@ publication: "*Decision Support Systems*"
 ---
 
 
-_ volume 124 113111 _
+_volume 124 113111_
 
 
 {{% alert note %}}

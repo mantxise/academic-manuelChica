@@ -10,7 +10,7 @@ publication: "*Omega*"
 ---
 
 
-_ volume 58 55-68 _
+_volume 58 55-68_
 
 
 {{% alert note %}}

@@ -10,7 +10,7 @@ publication: "*Engineering Applications of Artificial Intelligence*"
 ---
 
 
-_ volume 25 (2) 254-273 _
+_volume 25 (2) 254-273_
 
 
 {{% alert note %}}

@@ -10,7 +10,7 @@ publication: "*California Management Review*"
 ---
 
 
-_ volume 61 (4) 1-30 _
+_volume 61 (4) 1-30_
 
 
 {{% alert note %}}

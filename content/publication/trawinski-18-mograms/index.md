@@ -10,7 +10,7 @@ publication: "*IEEE Transactions on Cybernetics*"
 ---
 
 
-_ volume 48 (2) 474-485 _
+_volume 48 (2) 474-485_
 
 
 {{% alert note %}}

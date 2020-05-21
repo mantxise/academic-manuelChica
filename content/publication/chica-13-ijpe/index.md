@@ -10,7 +10,7 @@ publication: "*International Journal of Production Economics*"
 ---
 
 
-_ volume 145 761-772 _
+_volume 145 761-772_
 
 
 {{% alert note %}}

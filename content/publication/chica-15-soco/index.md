@@ -10,7 +10,7 @@ publication: "*Soft Computing*"
 ---
 
 
-_ volume 19 (10) 2891-2903 _
+_volume 19 (10) 2891-2903_
 
 
 {{% alert note %}}

@@ -10,7 +10,7 @@ publication: "*IEEE Transactions on Evolutionary Computation*"
 ---
 
 
-_ volume 22 (6) 866-878 _
+_volume 22 (6) 866-878_
 
 
 {{% alert note %}}

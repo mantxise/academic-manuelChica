@@ -10,7 +10,7 @@ publication: "*Swarm and Evolutionary Computation*"
 ---
 
 
-_ volume 42, 138-159 _
+_volume 42, 138-159_
 
 
 {{% alert note %}}

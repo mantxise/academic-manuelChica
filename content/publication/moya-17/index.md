@@ -10,7 +10,7 @@ publication: "*Knowledge-Based Systems*"
 ---
 
 
-_ volume 123 200-216 _
+_volume 123 200-216_
 
 
 {{% alert note %}}

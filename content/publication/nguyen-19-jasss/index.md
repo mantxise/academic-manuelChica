@@ -10,7 +10,7 @@ publication: "*Journal of Artificial Societies & Social Simulation*"
 ---
 
 
-_ volume 22 (3) 1 _
+_volume 22 (3) 1_
 
 
 {{% alert note %}}
