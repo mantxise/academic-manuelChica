@@ -64,17 +64,9 @@ graph TD;
   C-->D;
 ```
 
-A more realistic extension of assembly line balancing is one proposed by Bautista (_www.nissanchair.com/TSALBP_), which considers an additional space constraint to get a simplified but closer version to real-world problems, defining the Time and Space ALB problem (TSALBP). TSALBP presents eight variants depending on three optimization criteria: the line cycle time, the number of stations, and their area. Four of those variants present a multi-objective nature.
+A more realistic extension of assembly line balancing is one proposed by Bautista (_www.nissanchair.com/TSALBP_), which considers an additional space constraint to get a simplified but closer version to real-world problems, defining the Time and Space ALB problem (TSALBP). TSALBP presents eight variants depending on three optimization criteria: the line cycle time $c$, the number of stations $m$, and their area $A$. Four of those variants present a multi-objective nature.
 
-$$
-
-f^1(x) =  m =  \sum_{k=1}^{UB_{m}} \max_{j \in J} \{ x_{jk}  \}, 
-
-f^2(x) =  c =  {  \max_{k \in K} \{ \sum_{j=1}^{|J|} \overline{t}_{j\varepsilon^0}x_{jk} \} }, 
-
-f^3(x) =  A =  {  \max_{k \in K} \{ \sum_{j=1}^{|J|} \overline{a}_{j\varepsilon^0}x_{jk} \} }. 
-
-$$
+$$ f^1(x) =  m =  \sum_{k=1}^{UB_{m}} \max_{j \in J} \{ x_{jk}  \},  \\\\ f^2(x) =  c =  {  \max_{k \in K} \{ \sum_{j=1}^{|J|} \overline{t}_{j\varepsilon^0}x_{jk} \} }, \\\\ f^3(x) =  A =  {  \max_{k \in K} \{ \sum_{j=1}^{|J|} \overline{a}_{j\varepsilon^0}x_{jk} \} }. $$
 
 
 ## METAHEURISTICS AND MULTIOBJECTIVE OPTIMIZATION
