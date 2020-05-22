@@ -20,33 +20,56 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Coursera"
+  organization = "University of Granada"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Best PhD in Engineering and Architecture"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "Australian Government"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
+  title = "Endeavour Research Fellowship"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
+  organization = "Spanish Ministry of Education"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Jose Castillejo Research Grant"
   url = ""
-  certificate_url = "https://www.datacamp.com"
+  certificate_url = ""
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
+  
+  
+[[item]]
+  organization = ""
+  organization_url = "https://www.coursera.org"
+  title = "Gledden Senior Visiting Scholar"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+  
+  
+[[item]]
+  organization = "Spanish Ministry of Science and Innovation"
+  organization_url = "https://www.coursera.org"
+  title = "Ramon y Cajal Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+  
   
 +++
