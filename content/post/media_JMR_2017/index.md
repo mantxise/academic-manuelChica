@@ -3,7 +3,7 @@
 
 title: "Science Daily covers our JMR paper"
 subtitle: ""
-summary: "New technique could boost online word-of-mouth marketing: Researchers have developed a technique for creating complex predictive tools that can be used to make effective decisions about word-of-mouth marketing for online products and services, Science Daily informed."
+summary: ""
 authors: []
 tags: []
 categories: []
@@ -29,3 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+New technique could boost online word-of-mouth marketing: Researchers have developed a technique for creating complex predictive tools that can be used to make effective decisions about word-of-mouth marketing for online products and services, Science Daily informed {{% staticref "https://www.sciencedaily.com/releases/2016/11/161102130919.htm" "newtab" %}}here{{% /staticref %}}.
+
+

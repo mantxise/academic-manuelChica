@@ -39,3 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+{{< figure library="true" src="zio_rod_start.png" title="" lightbox="true" >}}
+
+
+
+{{< figure library="true" src="zio_screenshot_charts.png" title="Screenshot of the application" lightbox="true" >}}
+
+

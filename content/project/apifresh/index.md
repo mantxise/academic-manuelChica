@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Apifresh"
-summary: "A European project funded by the European Commission 7th Framework Program. The objective of the Apifresh project is to provide European beekeepers with the scientific and technological aids necessary to improve the quality of European pollen and royal jelly and also to promote the regulatory means that will allow European bee products compete under fair conditions against lower quality or adulterated products."
+summary: ""
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+A European project funded by the European Commission 7th Framework Program. The objective of the Apifresh project is to provide European beekeepers with the scientific and technological aids necessary to improve the quality of European pollen and royal jelly and also to promote the regulatory means that will allow European bee products compete under fair conditions against lower quality or adulterated products.

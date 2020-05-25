@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PhD Thesis"
-summary: "My PhD thesis is about the application of multiobjective biologically-inspired metaheuristics: Ant Colony Optimization (ACO) and Genetic Algorithms to solve the Time and Space Assembly Line Balancing Problem (TSALBP)."
+summary: "Ant Colony Optimization (ACO) and Genetic Algorithms to solve the Time and Space Assembly Line Balancing Problem (TSALBP)."
 authors: []
 tags: []
 categories: []

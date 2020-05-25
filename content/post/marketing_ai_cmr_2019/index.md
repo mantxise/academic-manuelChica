@@ -3,9 +3,7 @@
 
 title: "New publications in California Management Review"
 subtitle: ""
-summary: "Authors from US, the Netherlands, and Spain have published a practical guide for the adoption of AI technologies in Marketing, following the data science standard CRISP-DM. The paper was published in California Management Review (CMR) in July 2019, one of the most relevant publications in management (impact factor of 5.0).
-
-CMR also published a blog entry about the publication and a brilliant promo video:"
+summary: ""
 authors: []
 tags: []
 categories: []
@@ -31,3 +29,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Authors from US, the Netherlands, and Spain have published a practical guide for the adoption of AI technologies in Marketing, following the data science standard CRISP-DM. The paper was published in California Management Review (CMR) in July 2019, one of the most relevant publications in management (impact factor of 5.0).
+
+CMR also published a blog entry about the publication and a brilliant promo video:
+
+{{< youtube 9F9pv7YTIik >}}
+

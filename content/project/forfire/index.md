@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Forfire"
-summary: "FORFIRE aims to develop an outdoors fire detection system using a new camera sensor only sensible to VUV part of the spectrum. This feature provides a set of advantages comparing with current sensors. Developing this new sensor will provide the capability of early fire detection with a very low rate of false alarm (0.1%). This can be achieved by focusing on the spectral characteristics of flames in the Vacuum Ultra Violet (VUV) area (at wavelengths between 140 to 240 nm) of the electromagnetic spectrum. "
+summary: " "
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+FORFIRE aims to develop an outdoors fire detection system using a new camera sensor only sensible to VUV part of the spectrum. This feature provides a set of advantages comparing with current sensors. Developing this new sensor will provide the capability of early fire detection with a very low rate of false alarm (0.1%). This can be achieved by focusing on the spectral characteristics of flames in the Vacuum Ultra Violet (VUV) area (at wavelengths between 140 to 240 nm) of the electromagnetic spectrum.

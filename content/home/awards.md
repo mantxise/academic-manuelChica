@@ -20,55 +20,66 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "University of Jaen"
+  organization_url = "https://www.ujaen.es"
+  title = "Best Master degree curriculum (course 2001-2006)"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = "2007-03-19"
+  description = ""
+
+
+[[item]]
   organization = "University of Granada"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://www.ugr.es"
   title = "Best PhD in Engineering and Architecture"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
+  date_start = ""
+  date_end = "2011-10-25"
   description = ""
 
 [[item]]
   organization = "Australian Government"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "Endeavour Research Fellowship"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  url = "https://internationaleducation.gov.au/Scholarships/Scholarships-and-Fellowships/Pages/default.aspx"
   certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  date_start = "2016-09-01"
+  date_end = "2017-02-28"
+  description = ""
   
 [[item]]
   organization = "Spanish Ministry of Education"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "http://www.educacionyfp.gob.es/portada.html"
   title = "Jose Castillejo Research Grant"
-  url = ""
+  url = "http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/profesorado/profesorado-universitario/becas-ayudas/movilidad/jose-castillejo.html"
   certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2020-04-01"
+  date_end = "2020-06-30"
   description = ""
   
   
 [[item]]
-  organization = ""
-  organization_url = "https://www.coursera.org"
+  organization = "IAS - University of Western Australia"
+  organization_url = "https://www.uwa.edu.au/"
   title = "Gledden Senior Visiting Scholar"
-  url = ""
+  url = "http://www.ias.uwa.edu.au/gledden-fellows"
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2021-01-01"
   date_end = ""
   description = ""
   
   
 [[item]]
   organization = "Spanish Ministry of Science and Innovation"
-  organization_url = "https://www.coursera.org"
-  title = "Ramon y Cajal Fellowship"
-  url = ""
+  organization_url = "https://www.lamoncloa.gob.es/Paginas/index.aspx"
+  title = "Ramon y Cajal Fellowship (2016 call)"
+  url = "http://www.ciencia.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=5996c7f1cc057510VgnVCM1000001d04140aRCRD"
   certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
+  date_start = "2018-06-01"
+  date_end = "2023-05-31"
   description = ""
   
   
