@@ -35,6 +35,8 @@ The target business and engineering applications are manifold:
 
 We list below some research examples.
 
+{{% toc %}}
+
 
 ## Modeling and building agent-based DSS for marketing
 
