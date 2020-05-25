@@ -121,14 +121,14 @@ The figure below illustrates the effect of incentivizing 2,000 non-premium users
 
 
 
-Trust and trustworthiness are of great importance in social and human systems, especially when considering managerial and economic decision-making. In this paper, we investigate the emergent dynamics of an evolutionary game-theoretic model — the N-player evolutionary trust game — consisting of three types of players: an investor, a trustee who is trustworthy, and a trustee who is untrustworthy. Here, we limit the interactions between players to local neighborhoods defined by a specific spatial topology or social network. Players are able to adjust their game-playing strategies using an evolutionary update rule based on the payoffs obtained by their neighbors. Through comprehensive simulation experiments, we find that it is possible to promote trust when players interact in a social network even if there is a substantial number of untrustworthy individuals in the initial population.
+Trust and trustworthiness are of great importance in social and human systems, especially when considering managerial and economic decision-making. In this paper, we investigate the emergent dynamics of an evolutionary game-theoretic model - the N-player evolutionary trust game - consisting of three types of players: an investor, a trustee who is trustworthy, and a trustee who is untrustworthy. Here, we limit the interactions between players to local neighborhoods defined by a specific spatial topology or social network. Players are able to adjust their game-playing strategies using an evolutionary update rule based on the payoffs obtained by their neighbors. Through comprehensive simulation experiments, we find that it is possible to promote trust when players interact in a social network even if there is a substantial number of untrustworthy individuals in the initial population.
 
 
 {{< figure library="true" src="network_trust_example_improved.png" lightbox="true" >}}
 
 
 
-These results differ from findings reported for an unstructured population of the same game, where the existence of a single untrustworthy individual would eliminate trust completely. We compare the dynamics of the model with different social network densities and structures (e.g., from regular lattices to scale-free and random networks). We observe that the levels of trust vary under different network structures, and the level is correlated with how `difficult’ the game is.
+These results differ from findings reported for an unstructured population of the same game, where the existence of a single untrustworthy individual would eliminate trust completely. We compare the dynamics of the model with different social network densities and structures (e.g., from regular lattices to scale-free and random networks). We observe that the levels of trust vary under different network structures, and the level is correlated with how "difficult" the game is.
 
 When game conditions are easy (i.e., low temptation to defect and/or almost no initial untrustworthy trustees), homogeneous networks with higher densities can promote higher levels of trust. However, when the game becomes harder, heterogeneous social networks with lower densities are able to promote higher levels of trust and global net wealth.
 
@@ -150,5 +150,5 @@ In this paper, we present an evolutionary trust game to investigate the formatio
 
 {{% staticref "files/paper_ieee-cec17-trust.pdf" "newtab" %}}IEEE CEC 2017 Paper{{% /staticref %}}
 
-{{% staticref "files/mchica_trust_sharing_economy.pdf" "newtab" %}}Talk at the IEEE CEC 2017, in Donostia / San Sebastián{{% /staticref %}}
+{{% staticref "files/mchica_trust_sharing_economy.pdf" "newtab" %}}Talk at the IEEE CEC 2017, in Donostia / San Sebastian{{% /staticref %}}
 
