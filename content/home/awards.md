@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   title = "Best Master degree curriculum (course 2001-2006)"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2007-03-19"
+  date_start = "2007-03-19"
+  date_end = ""
   description = ""
 
 
@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   title = "Best PhD in Engineering and Architecture"
   url = ""
   certificate_url = ""
-  date_start = ""
-  date_end = "2011-10-25"
+  date_start = "2011-10-25"
+  date_end = ""
   description = ""
 
 [[item]]
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   url = "http://www.ias.uwa.edu.au/gledden-fellows"
   certificate_url = ""
   date_start = "2021-01-01"
-  date_end = ""
+  date_end = "2021-04-01"
   description = ""
   
   
