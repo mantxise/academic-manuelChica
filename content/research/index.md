@@ -18,22 +18,25 @@ header:
 
 Current Manuel's research track is called *Managing Complexity with Computational Intelligence (MACOI)*.
 
-MACOI focuses on applying computational intelligence techniques for solving complex real-world applications and SME needs. The set of advanced computational techniques includes metaheuristics for single and multi-objective optimization problems, machine learning, simulation, agent-based modeling, and social network analysis. 
+MACOI focuses on applying computational intelligence techniques for solving complex real-world applications and SME needs. The set of advanced computational techniques includes metaheuristics for single and multi-objective optimization problems, machine learning, simulation, agent-based modeling, and social network analysis. The target business and engineering applications are manifold: a) climate change, b) marketing, c) sharing economy, d) industrial engineering, e) healthcare, f) food engineering, or g) ecological modelling. We can highlight 5 main areas of the **MACOI** research line:
 
-The target business and engineering applications are manifold: 
 
-* climate change,
-* marketing, 
-* sharing economy,
-* industrial engineering, 
-* healthcare, 
-* food engineering,
-* ecological modelling.
+* **MACOI#1** _Use of evolutionary game theory (EGT) and agent-based modeling (ABM) for social dilemmas and economical/social problems._ We have applied the models to climate change problems or to trust issues in societies (see an example below). Also, we have used ABM for modeling migrations.
+
+* **MACOI#2** _Artificial intelligence and social simulation in Marketing._ Different approaches and methods are applied to marketing, from ABM to system dynamics and optimization methods.
+
+* **MACOI#3** _Metaheuristics for industrial and economical problems._ In this line we use metaheuristics (e.g., evolutionary computation and evolutionary multiobjective optimization methods) to optimize industrial systems such as assembly lines. Apart from the optimization method itself, we also apply methods to incorporate specific knowledge from the experts and to guide the optimization process to find the most suitable solution.
+
+* **MACOI#4** _Metaheuristics for model validation_ It is easy to generate a model but it is difficult to have a rigorous and valid model. The objective of this line is to provide modelers and stakeholders with automatic tools to increase their confidence in the model.
+
+* **MACOI#5** _Explanaible artificial intelligence and advanced modeling._ The goal of this line is to generate more explanaible AI model such as using linguistic information with fuzzy logic, or causal diagrams to help experts when making decisions.
+
+
 
 {{< figure library="true" src="complex_systems.png" lightbox="true" >}}
 
 
-We list below some examples of Manuel's research line.
+We list below a couple of examples of this research line.
 
 
 {{% toc %}}
