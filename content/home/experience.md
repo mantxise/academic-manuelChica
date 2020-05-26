@@ -89,8 +89,8 @@ date_format = "Jan 2006"
   company = "University of Jaen"
   company_url = "www.ujaen.es"
   location = "Jaen"
-  date_start = "2006-06-15"
-  date_end = "2005-08-15"
+  date_end = "2006-06-15"
+  date_start = "2005-08-15"
   description = """Research on data mining and pre-processing techniques. Develop of feature selection algorithms for the Keel project (a Java open-source data mining software)."""
 
 
