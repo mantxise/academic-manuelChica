@@ -2,7 +2,7 @@
 title: "Embracing multimodal optimization to enhance Dynamic Energy Budget parameterization"
 date: 2020-06-01
 publishDate: 2020-06-01T15:57:23.105412Z
-authors: ["Ramon Filgueira", "Manuel Chica", "Juan Jose Palacios", "Tore Strohmeier", "Romain Lavaud", "Antonio Ag{\"u}era", Sergio Damas", "{\O}ivind Strand"]
+authors: ["Ramon Filgueira", "Manuel Chica", "Juan Jose Palacios", "Tore Strohmeier", "Romain Lavaud", "Antonio Aguera", Sergio Damas", "Oivind Strand"]
 publication_types: ["2"]
 abstract: ""
 featured: false
