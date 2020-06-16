@@ -1,0 +1,19 @@
+---
+title: "Embracing multimodal optimization to enhance Dynamic Energy Budget parameterization"
+date: 2020-06-01
+publishDate: 2020-06-01T15:57:23.105412Z
+authors: ["Ramon Filgueira", "Manuel Chica", "Juan Jose Palacios", "Tore Strohmeier", "Romain Lavaud", "Antonio Ag{\"u}era", Sergio Damas", "{\O}ivind Strand"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*Ecological Modelling*"
+---
+
+_volume 431 109139_
+
+
+{{% alert note %}}
+
+Impact factor: 2.634. Journal rank: Q2, 63/165 (Ecology)
+
+{{% /alert %}}

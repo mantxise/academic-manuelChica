@@ -36,6 +36,9 @@ MACOI focuses on applying computational intelligence techniques for solving comp
 {{< figure library="true" src="complex_systems.png" lightbox="true" >}}
 
 
+{{% staticref "files/ulpgc_seminar_mchica.pdf" "newtab" %}}Talk about ABM and complex systems at ULPGC{{% /staticref %}}
+
+
 We list below a couple of examples of this research line.
 
 
