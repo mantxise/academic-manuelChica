@@ -15,7 +15,7 @@ _volume 147 113183_
 
 {{% alert note %}}
 
-Impact factor: 4.292. Journal rank: Q1, 24/133 (Computer Science - AI)
+Impact factor: 5.292. Journal rank: Q1, 2/83 (O.R. & Management Science)
 
 {{% /alert %}}
 

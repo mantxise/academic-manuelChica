@@ -15,6 +15,6 @@ _volume 377 (15) 125090_
 
 {{% alert note %}}
 
-Impact factor: 3.092. Journal rank: Q1, 14/254 (Mathematics - Applied)
+Impact factor: 3.472. Journal rank: Q1, 7/260 (Mathematics - Applied)
 
 {{% /alert %}}

@@ -15,7 +15,7 @@ _volume 124 113111_
 
 {{% alert note %}}
 
-Impact factor: 3.847. Journal rank: Q1, 29/155 (Computer Science - Information Systems)
+Impact factor: 4.721. Journal rank: Q1, 8/83 (O.R. & Managment Science)
 
 {{% /alert %}}
 

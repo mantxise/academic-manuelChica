@@ -2,7 +2,7 @@
 title: "Modeling agent-based consumers decision-making with 2-tuple fuzzy linguistic perceptions"
 date: 2020-01-01
 publishDate: 2020-05-15T15:57:23.095412Z
-authors: ["Jesus Giráldez-Cru", "Manuel Chica", "Oscar Cordón", "Francisco Herrera"]
+authors: ["Jesus Giraldez-Cru", "Manuel Chica", "Oscar Cordon", "Francisco Herrera"]
 publication_types: ["2"]
 abstract: ""
 featured: false
@@ -15,7 +15,7 @@ _volume 35 283-299_
 
 {{% alert note %}}
 
-Impact factor: 7.229. Journal rank: Q1, 8/133 (Computer Science AI)
+Impact factor: 10.312. Journal rank: Q1, 6/136 (Computer Science AI)
 
 {{% /alert %}}
 

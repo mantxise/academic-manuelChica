@@ -15,7 +15,7 @@ _volume 61 (4) 1-30_
 
 {{% alert note %}}
 
-Impact factor: 5.0. Journal rank: Q1, 26/217 (Management)
+Impact factor: 3.909. Journal rank: Q1, 59/226 (Management)
 
 {{% /alert %}}
 

@@ -14,6 +14,6 @@ _volume 431 109139_
 
 {{% alert note %}}
 
-Impact factor: 2.634. Journal rank: Q2, 63/165 (Ecology)
+Impact factor: 2.497. Journal rank: Q2, 68/168 (Ecology)
 
 {{% /alert %}}

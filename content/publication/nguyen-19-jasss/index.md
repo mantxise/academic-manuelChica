@@ -15,6 +15,6 @@ _volume 22 (3) 1_
 
 {{% alert note %}}
 
-Impact factor: 2.194. Journal rank: Q1, 18/104 (Social Sciences)
+Impact factor: 2.222. Journal rank: Q1, 24/108 (Social Sciences, Int)
 
 {{% /alert %}}

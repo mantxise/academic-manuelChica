@@ -15,6 +15,6 @@ _volume 9 19789_
 
 {{% alert note %}}
 
-Impact factor: 4.122. Journal rank: Q1, 6/90 (Multidisciplinary)
+Impact factor: 3.998. Journal rank: Q1, 17/71 (Multidisciplinary)
 
 {{% /alert %}}

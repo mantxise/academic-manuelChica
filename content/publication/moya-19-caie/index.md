@@ -15,7 +15,7 @@ _volume 137 106048_
 
 {{% alert note %}}
 
-Impact factor: 3.518. Journal rank: Q1, 24/106 (Computer Science - Intelligent Applications)
+Impact factor: 4.135. Journal rank: Q1, 18/109 (Computer Science - Intelligent Applications)
 
 {{% /alert %}}
 

@@ -15,7 +15,7 @@ _volume 33 (1) 75-103_
 
 {{% alert note %}}
 
-Impact factor: 2.519. Journal rank: Q2, 27/84 (OR & Management Science)
+Impact factor: 2.368. Journal rank: Q2, 32/83 (OR & Management Science)
 
 {{% /alert %}}
 
