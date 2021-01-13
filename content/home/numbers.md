@@ -31,7 +31,7 @@ subtitle = ""
   icon = "medal"
   icon_pack = "fas"
   name = "Q1 ranked papers"
-  description = "26"
+  description = "28"
     
 [[feature]]
   icon = "google-scholar"
