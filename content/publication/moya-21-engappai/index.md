@@ -10,7 +10,7 @@ publication: "*Engineering Applications of Artificial Intelligence*"
 ---
 
 
-_volume XX YY _
+_volume 100 104170 _
 
 
 {{% alert note %}}
