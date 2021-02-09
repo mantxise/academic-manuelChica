@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "An Evolutionary Game Model for Understanding Fraud in Consumption Taxes"
 date: 2021-01-12
 publishDate: 2021-01-12T15:57:23.100412Z
 authors: ["Manuel Chica", "Juan Hernandez", "Casiano Manrique de Lara Penate", "Raymond Chiong"]
