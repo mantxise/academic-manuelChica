@@ -93,8 +93,8 @@ appropriate market prices) with the interested firms of the marketing sector.
 The University of Granada is supporting this research work with reference P18-TP-4475 under the program *PAIDI1 2020 - Modalidad Colaboracion Tejido Productivo Consolidado*. This project has been granted by the Consejeria de Transformacion Economica, Industria, Conocimiento and the Universities of Andalusia, together with the European Regional Development Funds (ERDF) of the European Union.
 
 
-{{< figure library="true" src="consej_transformacion.png" title="" lightbox="true" >}}
-{{< figure library="true" src="UE_FEDER.png" title="" lightbox="true" >}}
-{{< figure library="true" src="andalucia_se_mueve.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="consej_transformacion.png" title="" lightbox="true" width: "20%" >}}
+{{< figure library="true" src="UE_FEDER.jpg" title="" lightbox="true"  width: "20%" >}}
+{{< figure library="true" src="andalucia_se_mueve.jpg" title="" lightbox="true"  width: "20%" >}}
 
 
