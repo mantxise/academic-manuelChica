@@ -43,7 +43,7 @@ slides: ""
 
 ## Introduction to the problem
 
-* This line is developed together by PhD student {{< ref "https://scholar.google.es/citations?user=AP1-mkgAAAAJ&hl=en&oi=ao" >}} "Zikai Zhang" and {{< ref "https://scholar.google.es/citations?user=dpvVKswAAAAJ&hl=en" >}} "Prof. Tang" from the University of Wuhan.*
+* This line is developed together by PhD student Zikai Zhang and Prof. Tang from the University of Wuhan.*
 
 
 Finding the best configuration of an assembly line is not trivial and the assembly line balancing problem (ALBP) models how to better balance the tasks of the line in workstations. Concretely, the ALBP aims to optimize some specific objectives such as line efficiency and workload while taking task assignment, precedence relation, and cycle time constraints into account. In this problem, each task must be assigned to only one workstation and is executed after all its predecessors complete. Additionally, the time required by the tasks of each workstation cannot exceed the cycle time.
