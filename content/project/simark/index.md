@@ -42,12 +42,14 @@ slides: ""
 
 ## Project leaders
 
+
 Manuel Chica, University of Granada & University of Newcastle, Australia
 
 Sergio Damas, University of Granada
 
 
 ## Project members
+
 
 Jose Luis Saez, University of Granada
 
@@ -61,25 +63,23 @@ Raymond Chiong, University of Newcastle, Australia
 
 William Rand, NCSU, USA
 
-{{< figure library="true" src="soccer_team.jpg" title="Screenshot of the application" lightbox="true" >}}
-
 
 
 ## Abstract
 
 The recent progress of artificial intelligence has boomed the development of explainable machine learning methods capable of extracting subtle insights from massive data sets and providing
 understandable explanations about them. The SIMARK project focuses on using: i) agent-based modeling (ABM) simulations; ii) explainable machine learning methods, and iii) advanced data
-visualization; in order to model and control complex marketing systems. These models comprise “virtual computational marketplaces” on a hitherto unprecedented scale to analyze, experiment
+visualization; in order to model and control complex marketing systems. These models comprise "virtual computational marketplaces" on a hitherto unprecedented scale to analyze, experiment
 with, feed with, and test against empirical real-world data. 
 
 SIMARK will overtake the current state of the art of this discipline. The scaling up of the ABM implementation to develop and analyze massive simulations will be faced. Likewise, explainable
 machine learning methods will be designed to uncover hidden problem-specific knowledge, allowing us to derive and validate generative theories from the simulation data explaining how
 complex behaviors emerge in markets. The automatic definition of marketing strategies to support the human decision making will also be tackled, considering the massive-scale, uncertain, and multicriteria problem nature. Advanced specific visualization techniques and methods to extract useful associations from these visualizations will be designed, permitting uncovering additional
-knowledge of the customers’ behavioral patterns and the appropriate marketing campaign settings.
+knowledge of the consumers' behavioral patterns and the appropriate marketing campaign settings.
 
 SIMARK becomes a truly interdisciplinary and innovative project that integrates disciplines such as complexity, ABM, explainable machine learning methods and human-centric modeling/decision
 making, big data, and information visualization for marketing. Although the current project is very challenging, the experience and expertise of the multidisciplinary research team and the
-collaboration with a SME of reference in the field, RØD Brand Consultants (RØD), ensures its successful development. SIMARK foresees the negotiation of exploitation agreements (including
+collaboration with a SME of reference in the field, ROD Brand Consultants (ROD), ensures its successful development. SIMARK foresees the negotiation of exploitation agreements (including
 appropriate market prices) with the interested firms of the marketing sector.
 
 
@@ -90,7 +90,7 @@ appropriate market prices) with the interested firms of the marketing sector.
 ## Acknowledgements
 
 
-The University of Granada is supporting this research work with reference P18-TP-4475 under the program *PAIDI1 2020 - Modalidad Colaboración Tejido Productivo Consolidado*. This project has been granted by the Consejeria de Transformación Economica, Industria, Conocimiento and the Universities of Andalusia, together with the European Regional Development Funds (ERDF) of the European Union.
+The University of Granada is supporting this research work with reference P18-TP-4475 under the program *PAIDI1 2020 - Modalidad Colaboracion Tejido Productivo Consolidado*. This project has been granted by the Consejeria de Transformacion Economica, Industria, Conocimiento and the Universities of Andalusia, together with the European Regional Development Funds (ERDF) of the European Union.
 
 
 {{< figure library="true" src="consej_transformacion.png" title="" lightbox="true" >}}
