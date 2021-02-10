@@ -29,7 +29,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://xxxxx"
+url_code: ""
 url_video: ""
 
 # Slides (optional).
@@ -43,19 +43,20 @@ slides: ""
 
 ## Introduction to the problem
 
-This line is developed by PhD student Zikai Zhang and Prof. Tang from the University of Wuhan.
+*This line is developed by PhD student Zikai Zhang and Prof. Tang from the University of Wuhan.*
 
-xxxx
+
+Finding the best configuration of an assembly line is not trivial and the assembly line balancing problem (ALBP) models how to better balance the tasks of the line in workstations. Concretely, the ALBP aims to optimize some specific objectives such as line efficiency and workload while taking task assignment, precedence relation, and cycle time constraints into account. In this problem, each task must be assigned to only one workstation and is executed after all its predecessors complete. Additionally, the time required by the tasks of each workstation cannot exceed the cycle time.
+
+The *multi-manned assembly line balancing problem (MALBP)* is dedicated to model large-size industries having a high volume of products such as the automotive industry. The MALBP has four advantages over the traditional ALBP: (1) effective reduction of the production line length, (2) effective use of space, (3) increased yield and (4), reduction of the time required for material handling and its setting [18].
 
 
 ## Supplementary files
 
-xxxx
+{{% staticref "files/benchmark_data_MALBP.zip" "newtab" %}}Benchmark data{{% /staticref %}}
 
 
-## Papers
 
-xxxxxx
 
 
 
