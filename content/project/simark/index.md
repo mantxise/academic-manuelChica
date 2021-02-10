@@ -84,7 +84,7 @@ appropriate market prices) with the interested firms of the marketing sector.
 
 
 
-{{< figure library="true" src="zio_screenshot_charts.png" title="Screenshot of the application" lightbox="true" >}}
+{{< figure library="true" src="zio_screenshot_charts.png" title="" lightbox="true" >}}
 
 
 ## Acknowledgements
