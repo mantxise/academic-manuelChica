@@ -10,7 +10,7 @@ publication: "*IEEE Computational Intelligence Magazine*"
 ---
 
 
-_volume XX YY _
+_volume XX YY_
 
 
 {{% alert note %}}
