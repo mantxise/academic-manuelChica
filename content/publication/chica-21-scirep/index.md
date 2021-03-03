@@ -8,7 +8,7 @@ abstract: "The current COVID-19 pandemic has impacted millions of people and the
 abstract_short = "We find out that a layout of groups based on similar costs of cooperation boosts the regions' agreements and avoid the risk of having a total lock-down and a negligible tourism activity. These findings can guide policy makers to facilitate agreements among regions to maximize the tourism recovery."
 featured: true
 publication: "*Scientific Reports*"
-url_custom = [{name = "SciRep link", url = "http://https://www.nature.com/articles/s41598-021-84604-z"}]
+url_custom: [{name = "SciRep link", url = "http://https://www.nature.com/articles/s41598-021-84604-z"}]
 
 ---
 
