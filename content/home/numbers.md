@@ -37,7 +37,7 @@ subtitle = ""
   icon = "google-scholar"
   icon_pack = "ai"
   name = "Citations"
-  description = "More than 1K (h-index = 18)"
+  description = "More than 1K (h-index = 19)"
   
 [[feature]]
   icon = "project-diagram"
