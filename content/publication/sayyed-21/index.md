@@ -1,5 +1,5 @@
 ---
-title: "An agent-based system for modeling users’ acquisition and retention in startup apps"
+title: "An agent-based system for modeling users' acquisition and retention in startup apps"
 date: 2021-03-05
 publishDate: 2021-03-05
 authors: ["Amir Sayyed-Alikhani", "Manuel Chica", "Ali Mohammadi"]
