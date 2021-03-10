@@ -41,10 +41,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "University of Granada"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Manuel Chica Serrano Researcher Website"
+description = "Manuel Chica Serrano Researcher Artificial Intelligence Investigador Data Science Inteligencia Artificial"
 
 ############################
 ## Site Features

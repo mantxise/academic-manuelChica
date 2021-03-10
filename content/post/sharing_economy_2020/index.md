@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nature Scientific Reports publishes our study on trust for the sharing economy"
+title: "Our study on trust for the sharing economy appears in Scientific Reports"
 subtitle: ""
 summary: 
 
 authors: []
 tags: []
 categories: []
-date: 2020-05-18T14:20:33+02:00
-lastmod: 2020-05-18T14:20:33+02:00
+date: 2020-05-18
+lastmod: 2020-05-18
 featured: false
 draft: false
 profile: false  # Show author profile?
