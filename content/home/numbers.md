@@ -25,13 +25,13 @@ subtitle = ""
   icon = "list-ol"
   icon_pack = "fas"
   name = "JCR-indexed papers"
-  description = "40"  
+  description = "41"  
     
 [[feature]]
   icon = "medal"
   icon_pack = "fas"
   name = "Q1 ranked papers"
-  description = "31"
+  description = "32"
     
 [[feature]]
   icon = "google-scholar"
@@ -43,7 +43,7 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "R&D projects"
-  description = "18"
+  description = "19"
   
 [[feature]]
   icon = "industry"
