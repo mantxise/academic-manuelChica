@@ -1,7 +1,7 @@
 ---
 title: "Understanding the dynamics of inter-provincial migration in the Mekong Delta, Vietnam: An agent-based modeling study"
-date: 2020-10-17
-publishDate: 2020-05-15T15:57:23.097412Z
+date: 2021-0317
+publishDate: 2021-03-15
 authors: ["Hung Khanh Nguyen", "Raymond Chiong", "Manuel Chica", "Richard H Middleton"]
 publication_types: ["2"]
 abstract: ""
@@ -10,7 +10,7 @@ publication: "*SIMULATION: Transactions of the Society for Modeling and Simulati
 ---
 
 
-_volume 22 (3) 1_
+_volume 97 (4) 267-285_
 
 
 {{% alert note %}}
