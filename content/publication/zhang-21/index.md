@@ -10,7 +10,7 @@ publication: "*Journal of Manufacturing Systems*"
 ---
 
 
-_volume xx yy (in press)_
+_volume 59 549-564_
 
 
 {{% alert note %}}

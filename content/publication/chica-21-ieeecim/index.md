@@ -10,7 +10,7 @@ publication: "*IEEE Computational Intelligence Magazine*"
 ---
 
 
-_volume 16 (2)_
+_volume 16 (2) 62-76_
 
 
 {{% alert note %}}
