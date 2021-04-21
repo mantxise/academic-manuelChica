@@ -19,19 +19,19 @@ subtitle = ""
   icon = "copy"
   icon_pack = "fas"
   name = "Publications"
-  description = "91"  
+  description = "96"  
   
 [[feature]]
   icon = "list-ol"
   icon_pack = "fas"
   name = "JCR-indexed papers"
-  description = "42"  
+  description = "43"  
     
 [[feature]]
   icon = "medal"
   icon_pack = "fas"
   name = "Q1 ranked papers"
-  description = "33"
+  description = "34"
     
 [[feature]]
   icon = "google-scholar"
