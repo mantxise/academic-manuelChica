@@ -25,13 +25,13 @@ subtitle = ""
   icon = "list-ol"
   icon_pack = "fas"
   name = "JCR-indexed papers"
-  description = "43"  
+  description = "45"  
     
 [[feature]]
   icon = "medal"
   icon_pack = "fas"
   name = "Q1 ranked papers"
-  description = "34"
+  description = "36"
     
 [[feature]]
   icon = "google-scholar"
