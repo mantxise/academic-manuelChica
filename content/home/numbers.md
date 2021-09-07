@@ -19,13 +19,13 @@ subtitle = ""
   icon = "copy"
   icon_pack = "fas"
   name = "Publications"
-  description = "96"  
+  description = "98"  
   
 [[feature]]
   icon = "list-ol"
   icon_pack = "fas"
   name = "JCR-indexed papers"
-  description = "45"  
+  description = "46"  
     
 [[feature]]
   icon = "medal"
