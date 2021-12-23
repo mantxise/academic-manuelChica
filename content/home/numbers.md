@@ -19,25 +19,25 @@ subtitle = ""
   icon = "copy"
   icon_pack = "fas"
   name = "Publications"
-  description = "98"  
+  description = ">100"  
   
 [[feature]]
   icon = "list-ol"
   icon_pack = "fas"
   name = "JCR-indexed papers"
-  description = "46"  
+  description = "49"  
     
 [[feature]]
   icon = "medal"
   icon_pack = "fas"
   name = "Q1 ranked papers"
-  description = "36"
+  description = "40"
     
 [[feature]]
   icon = "google-scholar"
   icon_pack = "ai"
   name = "Citations"
-  description = "More than 1.2K (h-index = 20)"
+  description = "More than 1.3K (h-index = 20)"
   
 [[feature]]
   icon = "project-diagram"
